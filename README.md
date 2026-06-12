@@ -2,7 +2,7 @@
 
 **`DevOps & Infraestrutura`**
 
-Me chamo **Brendow Zamoner**, tenho 28 anos e sou apaixonado por tecnologia, automação e sistemas de alto desempenho. Tenho experiência sólida em suporte técnico, administração de servidores Linux e Windows, redes, virtualização, infraestrutura em nuvem, automação com scripts e gerenciamento de ambientes complexos. Atualmente atuo como Analista de Sistemas, aplicando práticas de DevOps e infraestrutura para garantir a estabilidade e eficiência dos sistemas.
+Me chamo **Brendow Zamoner**, tenho 29 anos e sou apaixonado por tecnologia, automação e sistemas de alto desempenho. Tenho experiência sólida em suporte técnico, administração de servidores Linux e Windows, redes, virtualização, infraestrutura em nuvem, automação com scripts e gerenciamento de ambientes complexos. Atualmente atuo como Analista de Sistemas, aplicando práticas de DevOps e infraestrutura para garantir a estabilidade e eficiência dos sistemas.
 
 > Busco sempre a evolução contínua, com foco em soluções inteligentes, seguras e automatizadas.
 
